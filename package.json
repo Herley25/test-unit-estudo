@@ -1,0 +1,11 @@
+{
+  "name": "tests-unit",
+  "version": "1.0.0",
+  "description": "testes unitarios em javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "herley",
+  "license": "ISC"
+}
